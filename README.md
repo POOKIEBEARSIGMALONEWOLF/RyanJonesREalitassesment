@@ -1,9 +1,11 @@
  IT_ASSESMENT
-![IMG-4178](https://github.com/user-attachments/assets/93782178-675d-4e6a-a098-8346e0d44db2)
-![IMG-4180](https://github.com/user-attachments/assets/7b70af10-5261-4968-8571-4ee5d0ac3398)
-![IMG-4176](https://github.com/user-attachments/assets/84ff126a-be3a-403b-aa2d-f09fee2d0471)
-![IMG-4177](https://github.com/user-attachments/assets/4a644afe-c96b-4eca-919a-ba2c5ad801bc)
-![IMG-4173](https://github.com/user-attachments/assets/a3d69b8a-2296-456b-a853-ca24fd771233)
+![IMG-4173](https://github.com/user-attachments/assets/9c2b8e0b-9258-469b-a6fd-e4df210b9c2a)
+![IMG-4174](https://github.com/user-attachments/assets/4c78575c-c594-4e83-af9e-27a27f3bd36e)
+![IMG-4176](https://github.com/user-attachments/assets/fde57433-c3ba-421c-80c1-b3ecd1fabe2b)
+![IMG-4177](https://github.com/user-attachments/assets/5b880781-6abb-4d84-9b47-a9cc1b0ea2b3)
+![IMG-4178](https://github.com/user-attachments/assets/1fe28904-b05a-4e92-bd1b-0beb6f00e1bb)
+![IMG-4179](https://github.com/user-attachments/assets/b60ac1e9-3dc6-4f14-8ba8-b18c71ca00db)
+![IMG-4180](https://github.com/user-attachments/assets/de309036-94f7-4ffc-94d3-9923d4e0aba1)
 
 
  Step-by-Step Guide: Raspberry Pi Pico Project with Potentiometer-Controlled LED and Buzzer
